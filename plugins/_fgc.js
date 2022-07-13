@@ -11,7 +11,7 @@ let pp = await conn.profilePictureUrl(m.sender, 'image')
 	},
 	"message": {
 		"groupInviteMessage": {
-			"groupJid": "6285240750713-1610340626@g.us",
+			"groupJid": "6288270863279-1610340626@g.us",
 			"inviteCode": "mememteeeekkeke",
 			"groupName": "P", 
             "caption": "Hi lort", 
