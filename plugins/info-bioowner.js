@@ -1,8 +1,8 @@
 let handler = async (m, { conn }) => {
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `*───────[ BIODATA OWNER ]───────*
-*💌 Nama* : ᴅᴀɴɪ-ʙᴏᴛᴢ
-*✉️ Nama RL* : ᴅᴀɴɪ ᴏғғᴄɪᴀʟ
+*💌 Nama* : Danz
+*✉️ Nama RL* : DanzBot
 *♂️ Gender* : Laki - laki
 *🕋 Agama* : Islam
 *⏰ Tanggal lahir* : 16 Desember 2007
@@ -15,10 +15,10 @@ let teksbio = `*───────[ BIODATA OWNER ]───────*
 *💔 Benci* : autis, anak epep, seleb
 
 *───────[ SOSIAL MEDIA ]───────*
-*📷 instagran* : @Dani_Offcial
-*🇫  Facebook* : Dani_Offc
-*🏮 Chanel Youtube* : DaniBotz
-*🐈 Github:* YTDANIBOTZ
+*📷 instagran* : @DanzGamtenk
+*🏷  Group* : https://chat.whatsapp.com/GFJaGMLB9s66DhAZTxtFff
+*🏮 Chanel Youtube* : DanzBot
+*🐈 Github:* https://github.com/DanzGantevk75
 
 `
 conn.sendHydrated(m.chat, teksbio, wm, ppown, "wa.me/" + nomorown, "💬 ᴄʜᴀᴛs", null,null, [["ᴅᴏɴᴀsɪ", '.donasi'], [null, null],[null,null]], m)
