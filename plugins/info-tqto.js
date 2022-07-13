@@ -17,6 +17,7 @@ let tqto = `╭──〔  THANKS TO  〕─⬣
 ⫹⫺ ᎾᎡᎪNᏩ ᎢᏌᎪ
 ⫹⫺ KᎬᏚᎪᏴᎪᎡᎪN
 ⫹⫺ ᏢᎬNYᎬᎷᎪNᏩᎪᎢ
+⫹⫺ DANZZ OFFICIAL
 ⫹⫺ ᎪᎠᏆᏔᎪᏓᏚᎻᏆNᏩ
 ⫹⫺ NᏌᎡᏌᎢᎾᎷᎾ
 ⫹⫺ ᏆᏚᎢᏆKᎷᎪᏞ
@@ -41,10 +42,10 @@ let tqto = `╭──〔  THANKS TO  〕─⬣
 ╰─────────────⬣
 `
 conn.sendButtonDoc(m.chat, tqto, wm,'Thanks','Bilek', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: "https://Instagram.com/bot_whangsaf",
+    mediaUrl: "https://Instagram.com/DanzGantenk",
     mediaType: "VIDEO",
-    description: "https://Instagram.com/bot_whangsaf", 
-    title: 'Simple Bot Esm',
+    description: "https://Instagram.com/DanzGamtenk", 
+    title: 'Simple DanzBot-MD',
     body: wm,
     thumbnail: thumb,
     sourceUrl: sgc
